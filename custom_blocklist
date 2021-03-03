@@ -1,5 +1,7 @@
-### List of IPs to be used in pfsense for blocking via pfBlockerNg
-
+#
+# List of IPs to be used in pfsense for blocking rogue IPs
+#
+#
 1.214.219.196
 5.101.40.82
 5.103.129.153
