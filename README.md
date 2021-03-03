@@ -1,2 +1,2 @@
-# pfsense_ipv4_custom_banlist
-pfsense_ipv4_custom_banlist
+# pfsense_ips_custom_blocklist
+Drop this into an alias and use it in your rules 
