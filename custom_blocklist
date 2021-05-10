@@ -1,7 +1,7 @@
 #
 # List of IPs to be used in pfsense for blocking rogue IPs
 #
-#1.214.219.196
+1.214.219.196
 3.1.217.127
 3.12.84.62
 3.143.168.73
